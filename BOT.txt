@@ -1,0 +1,6 @@
+{
+          "ip":"Bonchidon69.aternos.me",
+          "port":"48338",
+          "name":"Pilotdon"
+}
+
